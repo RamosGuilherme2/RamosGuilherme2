@@ -1,6 +1,6 @@
 ## Ola, eu sou o Guilherme 🤓✨
 
-![RamosGuilherme2 GitHub stats](https://github-readme-stats.vercel.app/api?username=RamosGuilherme2&show_icons=true&theme=dracula)
+![RamosGuilherme2 GitHub stats](https://github-readme-stats.vercel.app/api?RamosGuilherme2={username}&theme=blue-green)
 
 ## Tecnologias que eu uso no meu dia
 
