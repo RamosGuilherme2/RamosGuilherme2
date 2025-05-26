@@ -7,7 +7,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RamosGuilherme2&layout=compact&hide_border=true&title_color=ff0000&text_color=ff0000&bg_color=000000)](https://github.com/RamosGuilherme2)
 
 ### 🔧 Tecnologias e ferramentas que uso:
-![C#](https://img.shields.io/badge/-cSharp-000000?style=for-the-badge&logo=csharp&logoColor=ff0000&labelColor=000000)
+![Node.js](https://img.shields.io/badge/-Node.JS-000000?style=for-the-badge&logo=node.js&labelColor=000000&textColor=000000)
 ![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=java&logoColor=ff0000&labelColor=000000)
 ![Python](https://img.shields.io/badge/-python-000000?style=for-the-badge&logo=python&logoColor=ff0000&labelColor=000000)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&logo=postgresql&labelColor=000000)
@@ -19,9 +19,9 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=ff0000&labelColor=000000)
 
 ### 📚 Estudando atualmente:
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=000000)
 ![Node.js](https://img.shields.io/badge/-Node.JS-000000?style=for-the-badge&logo=node.js&labelColor=000000&textColor=000000)
 ![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=java&logoColor=ff0000&labelColor=000000)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=000000)
 ![Azure](https://img.shields.io/badge/-Azure-000000?style=for-the-badge&logo=azure-devops&logoColor=0078D4&labelColor=000000)
 
 
