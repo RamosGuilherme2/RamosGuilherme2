@@ -21,7 +21,9 @@
 ### 📚 Estudando atualmente:
 ![Node.js](https://img.shields.io/badge/-Node.JS-000000?style=for-the-badge&logo=node.js&labelColor=000000&textColor=000000)
 ![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=java&logoColor=ff0000&labelColor=000000)
-![C#](https://img.shields.io/badge/-cSharp-000000?style=for-the-badge&logo=csharp&logoColor=ff0000&labelColor=000000)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=000000)
+![Azure](https://img.shields.io/badge/-Azure-000000?style=for-the-badge&logo=azure-devops&logoColor=0078D4&labelColor=000000)
+
 
 ### 💬 Vamos conversar!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-ramos-90517b235/)
